@@ -42,7 +42,7 @@ This will generate a new package called 'test'. Remove `--dry-run` to generate t
 
 Generating a package this way also automatically creates testing for you.
 
-See [here](https://www.youtube.com/watch?v=-OmQ-PaSY5M) for a quick tutorial
+`nx g @nrwl/node:application --dry-run`
 
 #### Run the dev server on your localhost
 
